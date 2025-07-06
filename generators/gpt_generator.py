@@ -1,12 +1,12 @@
 # generators/gpt_generator.py
 from openai import OpenAI
-from dotenv import load_dotenv
+import streamlit as st
 import os
 import random
 
 # Initialize OpenAI
 load_dotenv()
-client = OpenAI(api_key=os.getenv("OPENAI_KEY"))
+client = OpenAI(api_key=st.secrets["OPENAI_KEY"])
 
 def generate_cars_content(error_type, conversation_history=None):
     """
