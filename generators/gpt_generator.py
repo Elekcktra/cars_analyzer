@@ -5,7 +5,6 @@ import os
 import random
 
 # Initialize OpenAI
-load_dotenv()
 client = OpenAI(api_key=st.secrets["OPENAI_KEY"])
 
 def generate_cars_content(error_type, conversation_history=None):
