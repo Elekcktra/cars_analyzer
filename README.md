@@ -1,6 +1,6 @@
 CARS Analyzer
 
-The CARS Analyzer is a tool designed to bring structure and clarity to one of the most challenging components of MCAT preparation — the Critical Analysis and Reasoning Skills (CARS) section. Unlike traditional subjects, CARS is inherently qualitative. There are no formulas, and often no clearly “correct” reasoning path. The difficulty lies in understanding why an answer is wrong, rather than simply identifying the correct one. This makes consistent improvement difficult, as most review methods fail to capture patterns in thinking or reasoning errors over time. This project was originally built to support my girlfriend during her MCAT preparation, with the goal of turning a subjective review process into something more systematic, analyzable, and actionable.
+The CARS Analyzer is a tool designed to bring structure and clarity to one of the most challenging components of MCAT preparation: the Critical Analysis and Reasoning Skills (CARS) section. Unlike traditional subjects, CARS is inherently qualitative. There are no formulas, and often no clearly “correct” reasoning path. The difficulty lies in understanding why an answer is wrong, rather than simply identifying the correct one. This makes consistent improvement difficult, as most review methods fail to capture patterns in thinking or reasoning errors over time. This project was originally built to support my girlfriend during her MCAT preparation, with the goal of turning a subjective review process into something more systematic, analyzable, and actionable.
 
 What It Does
 
